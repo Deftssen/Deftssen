@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stepan @Deftssen Latkin.
-- 👀 I’m interested in Data science.
+- 👀 I’m interested in Data analytics.
 - 🌱 I’m currently learning this new profession.
 
 <!---
